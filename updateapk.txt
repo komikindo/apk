@@ -8,3 +8,6 @@
 - Fix bug keluar aplikasi malah perlu back dua kali
 - Pop up rating 
 - Fix bug mode auto scroll selalu bertambah cepat setiap melanjutkan chapter, padahal sudah di atur ke yang paling rendah tapi setiap kali melanjutkan chapter kecepatannya bertambah, terimakasih.
+
+-+_+_+_+_  versionCode 16 versionName "1.1.20"
+sama seperti sebelumnya
