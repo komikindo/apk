@@ -6,5 +6,5 @@
 - Fix bug Exception java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object android.content.Context.getSystemService(java.lang.String)' on a null object reference
 - Fix bug  Unable to resume activity {com.komikbindgen6.komikbindgen6/com.komikindonew.appkomikindonew.SinglePost}: java.lang.NullPointerException: Attempt to invoke virtual method 'void com.unity3d.services.banners.BannerView.load()' on a null object referen
 - Fix bug keluar aplikasi malah perlu back dua kali
-- Pop up rating tiap minggu
+- Pop up rating 
 - Fix bug mode auto scroll selalu bertambah cepat setiap melanjutkan chapter, padahal sudah di atur ke yang paling rendah tapi setiap kali melanjutkan chapter kecepatannya bertambah, terimakasih.
