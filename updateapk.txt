@@ -13,3 +13,13 @@
 sama seperti sebelumnya
 
 version code 17 dan 18 sama seperti diatas
+
+
+-versionCode 24
+-versionName "1.1.27"
+-Change domain apk
+
+-versionCode 25
+-versionName "1.1.28"
+-Fitur auto replace domain favorit, histori, dan latest histori
+-Auto refresh menu setting setelah restore data
